@@ -1,0 +1,11 @@
+#app .navbar .home-link span:before {
+  display: inline-block;
+  content: "";
+  width: 2.5rem;
+  height: 2.4rem;
+  background: url("../img/王路飞.jpg") no-repeat;
+  background-size: 100% 100%;
+  background-position: -5px;
+  vertical-align: middle;
+  
+}
